@@ -1,0 +1,62 @@
+# Copyright (C) 2015 bbPress New UI
+# This file is distributed under the same license as the bbPress New UI package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress New UI 3.1.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bbpress-new-ui\n"
+"POT-Creation-Date: 2015-05-20 16:27:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/online-status/online.php:39
+msgid "Online"
+msgstr ""
+
+#: bbpress-new-ui.php:187
+msgid "the Copyright"
+msgstr ""
+
+#: inc/online-status/online.php:41
+msgid "Offline"
+msgstr ""
+
+#: bbpress-new-ui.php:44
+msgid ""
+"Want to test the new versions of BBP New UI plugin or to add your "
+"translation or have an idea/suggestion? Write me in admin@dk4000.com! | <a "
+"href=\"%1$s\">Hide notice</a>"
+msgstr ""
+
+#: bbpress-new-ui.php:105
+msgid "Change style to Dark color"
+msgstr ""
+
+#: bbpress-new-ui.php:108
+msgid "Now active Dark Theme"
+msgstr ""
+
+#: bbpress-new-ui.php:111
+msgid "Now active Light Theme"
+msgstr ""
+
+#: inc/forumui/functions.php:51
+msgid "Latest activity"
+msgstr ""
+
+#: inc/replyui/inc.php:23
+msgid "You cannot post more replies as long as you are the last poster. Please edit your post instead."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A great plugin completely changes the entire design bbpress in light or dark "
+"color"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Daniel 4000"
+msgstr ""

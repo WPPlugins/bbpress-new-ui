@@ -1,0 +1,65 @@
+# Copyright (C) 2015 bbPress New UI
+# This file is distributed under the same license as the bbPress New UI package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress New UI 3.1.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bbpress-new-ui\n"
+"POT-Creation-Date: 2015-05-20 16:27:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-07-30 09:40+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+
+#: inc/online-status/online.php:39
+msgid "Online"
+msgstr "Online"
+
+#: bbpress-new-ui.php:187
+msgid "the Copyright"
+msgstr "Autorsko pravo"
+
+#: inc/online-status/online.php:41
+msgid "Offline"
+msgstr "Offline"
+
+#: bbpress-new-ui.php:44
+msgid ""
+"Want to test the new versions of BBP New UI plugin or to add your translation "
+"or have an idea/suggestion? Write me in admin@dk4000.com! | <a href=\"%1$s"
+"\">Hide notice</a>"
+msgstr ""
+"Želite da testirate nove verzije BBP novog UI plugin-a ili da dodate vaš "
+"prevod ili imate neku ideju/sugestiju? Pišite mi na admin@dk4000.com! | <a "
+"href=\"%1$s\">Hide notice</a>"
+
+#: bbpress-new-ui.php:105
+msgid "Change style to Dark color"
+msgstr "Promenite stil u Tamnu boju"
+
+#: bbpress-new-ui.php:108
+msgid "Now active Dark Theme"
+msgstr "Sada aktivirajte Tamnu temu"
+
+#: bbpress-new-ui.php:111
+msgid "Now active Light Theme"
+msgstr "Sada aktivirajte Svetlu temu"
+
+#: inc/forumui/functions.php:51
+msgid "Latest activity"
+msgstr "Poslednja aktivnost"
+
+#. Description of the plugin/theme
+msgid ""
+"A great plugin completely changes the entire design bbpress in light or dark "
+"color"
+msgstr ""
+"Veliki plugin u potpunosti menja čitav dizajn bbpress-a u svetlu ili tamnu "
+"boju"
+
+#. Author of the plugin/theme
+msgid "Daniel 4000"
+msgstr "Daniel 4000"

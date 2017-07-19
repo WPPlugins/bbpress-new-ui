@@ -1,0 +1,65 @@
+# Copyright (C) 2015 bbPress New UI
+# This file is distributed under the same license as the bbPress New UI package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress New UI 3.1.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bbpress-new-ui\n"
+"POT-Creation-Date: 2015-05-20 19:31+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-01-02 11:44+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : "
+"2);\n"
+"Language: ru_RU\n"
+"Last-Translator: \n"
+
+#: inc/online-status/online.php:39
+msgid "Online"
+msgstr "Онлайн"
+
+#: bbpress-new-ui.php:187
+msgid "the Copyright"
+msgstr "копирайт"
+
+#: inc/online-status/online.php:41
+msgid "Offline"
+msgstr "Оффлайн"
+
+#: bbpress-new-ui.php:44
+msgid ""
+"Want to test the new versions of BBP New UI plugin or to add your translation or have an idea/suggestion? Write me "
+"in admin@dk4000.com! | <a href=\"%1$s\">Hide notice</a>"
+msgstr ""
+"Желаете протестировать новые версии плагина BBP New UI или добавить ваш перевод или есть идея/предложение? "
+"Напишите мне на admin@dk4000.com!  | <a href=\"%1$s\">Скрыть это</a>"
+
+#: bbpress-new-ui.php:105
+msgid "Change style to Dark color"
+msgstr "Сменить стиль на Тёмный"
+
+#: bbpress-new-ui.php:108
+msgid "Now active Dark Theme"
+msgstr "Сейчас активна темная тема"
+
+#: bbpress-new-ui.php:111
+msgid "Now active Light Theme"
+msgstr "Сейчас активна светлая тема"
+
+#: inc/forumui/functions.php:51
+msgid "Latest activity"
+msgstr "Последняя активность"
+
+#. Description of the plugin/theme
+msgid "A great plugin completely changes the entire design bbpress in light or dark color"
+msgstr "Отличный плагин полностью меняет внутренний дизайн bbpress на светлые или темные цвета"
+
+#. Author of the plugin/theme
+msgid "Daniel 4000"
+msgstr "Данила 4000"
+
+#: inc/replyui/inc.php:23
+msgid "You cannot post more replies as long as you are the last poster. Please edit your post instead."
+msgstr "Вы ответили на тему последним, поэтому не можете разместить больше ответов. Лучше отредактируйте свой ответ."

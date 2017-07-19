@@ -1,0 +1,64 @@
+# Copyright (C) 2015 bbPress New UI
+# This file is distributed under the same license as the bbPress New UI package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress New UI 3.1.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bbpress-new-ui\n"
+"POT-Creation-Date: 2015-05-20 19:46+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-01-02 11:49+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
+"Last-Translator: \n"
+
+#: inc/online-status/online.php:39
+msgid "Online"
+msgstr "Online"
+
+#: bbpress-new-ui.php:187
+msgid "the Copyright"
+msgstr "direitos autorais"
+
+#: inc/online-status/online.php:41
+msgid "Offline"
+msgstr "Offline"
+
+#: bbpress-new-ui.php:44
+msgid ""
+"Want to test the new versions of BBP New UI plugin or to add your translation or have an idea/"
+"suggestion? Write me in admin@dk4000.com! | <a href=\"%1$s\">Hide notice</a>"
+msgstr ""
+"Deseja testar a nova versão do BBP ou adicionar alguma localização?Sugestões/Idéias?Escreva para "
+"admin@dk4000.com! |  <a href=\"%1$s\">Esconder Informativo</a>"
+
+#: bbpress-new-ui.php:105
+msgid "Change style to Dark color"
+msgstr "Obscurecer Tema"
+
+#: bbpress-new-ui.php:108
+msgid "Now active Dark Theme"
+msgstr "Tema Escuro Ativado"
+
+#: bbpress-new-ui.php:111
+msgid "Now active Light Theme"
+msgstr "Tema Claro  Ativado"
+
+#: inc/forumui/functions.php:51
+msgid "Latest activity"
+msgstr "Última Atividade"
+
+#. Description of the plugin/theme
+msgid "A great plugin completely changes the entire design bbpress in light or dark color"
+msgstr "Um ótimo plugin que clareia ou escurece o design do bbpress"
+
+#. Author of the plugin/theme
+msgid "Daniel 4000"
+msgstr ""
+
+#: inc/replyui/inc.php:23
+msgid "You cannot post more replies as long as you are the last poster. Please edit your post instead."
+msgstr "Não é possível responder a sua própria última publicação. Em vez disso, edite sua resposta."
